@@ -1,1 +1,1 @@
-# Astro-Game
+# Astronaut-Game
